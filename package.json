@@ -1,0 +1,21 @@
+{
+  "name": "content_scraper",
+  "version": "1.0.0",
+  "description": "content scraper for Mike's Shirts",
+  "main": "scraper.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "extend": "^3.0.1",
+    "fs": "^0.0.1-security",
+    "json2csv": "^4.1.2",
+    "moment": "^2.22.1",
+    "path": "^0.12.7",
+    "request": "^2.85.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Brashear",
+  "license": "MIT"
+}
